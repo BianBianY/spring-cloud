@@ -1,0 +1,3 @@
+rootProject.name = 'spring-cloud'
+//include('api-commons', 'order-service', 'payment-service-eureka','eureka-server')
+

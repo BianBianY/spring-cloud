@@ -1,0 +1,29 @@
+server:
+  port: 9527
+
+spring:
+  application:
+    name: get-way
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: payment-service-hystrix
+          uri: lb://payment-service
+          predicates:
+            - Path=/payment/**
+        - id: config-center
+          uri: lb://config-center
+          predicates:
+            - Path=/actuator/bus-refresh/**
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+  instance:
+    prefer-ip-address: true

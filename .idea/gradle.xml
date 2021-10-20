@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-commons" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-commons" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/config-center" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/config-center" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/config-client" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/config-client" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/eureka-server" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/eureka-server" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/getway" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/getway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hystrix-dashboard" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/hystrix-dashboard" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/order-service" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-commons" />
+            <option value="$PROJECT_DIR$/order-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/order-service-openfeign" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-commons" />
+            <option value="$PROJECT_DIR$/order-service-openfeign" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/payment-service-consul" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-commons" />
+            <option value="$PROJECT_DIR$/payment-service-consul" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/payment-service-eureka" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-commons" />
+            <option value="$PROJECT_DIR$/payment-service-eureka" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/payment-service-hystrix" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-commons" />
+            <option value="$PROJECT_DIR$/payment-service-hystrix" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/payment-service-zookeeper" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-commons" />
+            <option value="$PROJECT_DIR$/payment-service-zookeeper" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/stream-customer" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/stream-customer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/stream-provider" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1.1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/stream-provider" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

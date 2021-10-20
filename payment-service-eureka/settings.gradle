@@ -1,0 +1,2 @@
+rootProject.name = 'payment-service-eureka'
+includeFlat 'api-commons'

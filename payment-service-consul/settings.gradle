@@ -1,0 +1,2 @@
+rootProject.name = 'payment-service-consul'
+includeFlat 'api-commons'
